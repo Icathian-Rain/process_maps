@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T04:10:23.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" version="17.4.5" etag="_U92kECmrv6Q6r5uTVVe" type="github"><diagram id="N4OyQoG9gi86B9BRlDWT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-04T04:17:03.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="G-Fp2gbow1ElLBUSZKvb" version="17.4.5" type="github">
+  <diagram id="N4OyQoG9gi86B9BRlDWT" name="Page-1">
+    <mxGraphModel dx="2524" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="VXMXP6WCEjCw8HBAVPkE-1" target="VXMXP6WCEjCw8HBAVPkE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="VXMXP6WCEjCw8HBAVPkE-1" target="VXMXP6WCEjCw8HBAVPkE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="VXMXP6WCEjCw8HBAVPkE-1" target="VXMXP6WCEjCw8HBAVPkE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="VXMXP6WCEjCw8HBAVPkE-1" target="VXMXP6WCEjCw8HBAVPkE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-1" value="数据库被攻击" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="VXMXP6WCEjCw8HBAVPkE-2" target="VXMXP6WCEjCw8HBAVPkE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="VXMXP6WCEjCw8HBAVPkE-2" target="VXMXP6WCEjCw8HBAVPkE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="VXMXP6WCEjCw8HBAVPkE-2" target="VXMXP6WCEjCw8HBAVPkE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-2" value="密码泄露" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="VXMXP6WCEjCw8HBAVPkE-3" target="VXMXP6WCEjCw8HBAVPkE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-3" value="注入攻击" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="350" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="VXMXP6WCEjCw8HBAVPkE-4" target="VXMXP6WCEjCw8HBAVPkE-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-4" value="感染病毒、木马" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="590" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="VXMXP6WCEjCw8HBAVPkE-5" target="VXMXP6WCEjCw8HBAVPkE-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-5" value="暴力破解" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="830" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="VXMXP6WCEjCw8HBAVPkE-6" target="VXMXP6WCEjCw8HBAVPkE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-6" value="监听获取" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="VXMXP6WCEjCw8HBAVPkE-7" target="VXMXP6WCEjCw8HBAVPkE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-7" value="从服务器获取" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="VXMXP6WCEjCw8HBAVPkE-8" target="VXMXP6WCEjCw8HBAVPkE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-8" value="人为泄露" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="150" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-9" value="使用SSL" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-10" value="权限控制" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-11" value="定期更换秘钥" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="150" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-12" value="使用ORM等防注入措施" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-13" value="防病毒软件" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="590" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-14" value="访问控制" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="830" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-28" value="密码泄露" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-29" value="注入攻击" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="350" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-30" value="密码泄露" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-31" value="注入攻击" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="350" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VXMXP6WCEjCw8HBAVPkE-32" value="感染病毒、木马" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="590" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
