@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T12:22:58.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="Lp9TNEy7gqX9WdIL3Nwe" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T12:25:38.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41" etag="4akCy0tCs7M24JyCTjhy" version="20.0.1" type="github">
   <diagram id="qDuXx8DXv64zPRxKYTdS" name="Page-1">
     <mxGraphModel dx="750" dy="1207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="42I9Sob4N83Rf_WigOP_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;fontSize=16;" edge="1" parent="1" source="42I9Sob4N83Rf_WigOP_-8" target="42I9Sob4N83Rf_WigOP_-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="42I9Sob4N83Rf_WigOP_-8" value="控制端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="42I9Sob4N83Rf_WigOP_-8" value="控制段" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="420" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="42I9Sob4N83Rf_WigOP_-9" value="0 到 8 bytes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
