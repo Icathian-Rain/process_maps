@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T10:45:14.063Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.123 Safari/537.36" version="20.2.3" etag="sEiLu953aA9kl9jWg9Hg" type="github"><diagram id="S1Y1SmXd_RZAMZ9EUCv0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-03T10:54:57.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.123 Safari/537.36" etag="4QfkaIUxfn0-cdeYnJnC" version="20.2.3" type="github">
+  <diagram id="S1Y1SmXd_RZAMZ9EUCv0" name="第 1 页">
+    <mxGraphModel dx="562" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="napXTZre2_-PK_O0ityR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="napXTZre2_-PK_O0ityR-1" target="napXTZre2_-PK_O0ityR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="napXTZre2_-PK_O0ityR-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="296" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="napXTZre2_-PK_O0ityR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="napXTZre2_-PK_O0ityR-2" target="napXTZre2_-PK_O0ityR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="napXTZre2_-PK_O0ityR-2" value="True" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="281" y="250" width="149" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="napXTZre2_-PK_O0ityR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="napXTZre2_-PK_O0ityR-3" target="napXTZre2_-PK_O0ityR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="napXTZre2_-PK_O0ityR-3" value="接收信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="296" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="napXTZre2_-PK_O0ityR-14" value="消息信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="napXTZre2_-PK_O0ityR-4" target="napXTZre2_-PK_O0ityR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="napXTZre2_-PK_O0ityR-19" value="进程信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="napXTZre2_-PK_O0ityR-4" target="napXTZre2_-PK_O0ityR-9">
+          <mxGeometry x="0.2613" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="napXTZre2_-PK_O0ityR-4" value="信息类型判断" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="283.5" y="450" width="144" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="napXTZre2_-PK_O0ityR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="napXTZre2_-PK_O0ityR-5" target="napXTZre2_-PK_O0ityR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="napXTZre2_-PK_O0ityR-5" value="json字符串转&lt;br style=&quot;font-size: 15px;&quot;&gt;信息结构体" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="296" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="napXTZre2_-PK_O0ityR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="napXTZre2_-PK_O0ityR-6" target="napXTZre2_-PK_O0ityR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="napXTZre2_-PK_O0ityR-6" value="分析、统计信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="296" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="napXTZre2_-PK_O0ityR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="napXTZre2_-PK_O0ityR-7" target="napXTZre2_-PK_O0ityR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="napXTZre2_-PK_O0ityR-7" value="将信息存入队列" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="296" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="napXTZre2_-PK_O0ityR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="napXTZre2_-PK_O0ityR-8" target="napXTZre2_-PK_O0ityR-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="356" y="970" />
+              <mxPoint x="200" y="970" />
+              <mxPoint x="200" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="napXTZre2_-PK_O0ityR-8" value="发送给前端" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="296" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="napXTZre2_-PK_O0ityR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="napXTZre2_-PK_O0ityR-9" target="napXTZre2_-PK_O0ityR-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="napXTZre2_-PK_O0ityR-9" value="json字符串转&lt;br style=&quot;font-size: 15px;&quot;&gt;进程信息结构体" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="440" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="napXTZre2_-PK_O0ityR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="napXTZre2_-PK_O0ityR-10" target="napXTZre2_-PK_O0ityR-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="760" />
+              <mxPoint x="600" y="760" />
+              <mxPoint x="600" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="napXTZre2_-PK_O0ityR-10" value="进程信息添加至&lt;br style=&quot;font-size: 15px;&quot;&gt;测试样例结构体内" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="440" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
