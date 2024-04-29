@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2024-04-29T07:18:39.292Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Eo6QPhp9_A1apekYD4Ge" version="24.2.1" type="github">
+  <diagram name="第 1 页" id="h22EpmdDGBBg13FZTG6l">
+    <mxGraphModel dx="964" dy="652" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I8XmAthpZ9RHqNBOsl9z-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="I8XmAthpZ9RHqNBOsl9z-1" target="I8XmAthpZ9RHqNBOsl9z-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I8XmAthpZ9RHqNBOsl9z-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;图形化管理界面&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="205" y="159.5" width="416" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="I8XmAthpZ9RHqNBOsl9z-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="I8XmAthpZ9RHqNBOsl9z-3" target="I8XmAthpZ9RHqNBOsl9z-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I8XmAthpZ9RHqNBOsl9z-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="205" y="301" width="418" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I8XmAthpZ9RHqNBOsl9z-4" value="后端程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="320" y="317" width="166" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I8XmAthpZ9RHqNBOsl9z-5" value="SSL证书检测模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="234" y="363" width="69" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="I8XmAthpZ9RHqNBOsl9z-6" value="自动化检测模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="327" y="363" width="69" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="I8XmAthpZ9RHqNBOsl9z-7" value="实时预警模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="420" y="363" width="69" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="I8XmAthpZ9RHqNBOsl9z-8" value="大模型检测模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="514" y="363" width="69" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="I8XmAthpZ9RHqNBOsl9z-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;strokeWidth=2;" parent="1" source="I8XmAthpZ9RHqNBOsl9z-9" target="I8XmAthpZ9RHqNBOsl9z-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I8XmAthpZ9RHqNBOsl9z-9" value="用户" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="354" y="46" width="120" height="73" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
