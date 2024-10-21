@@ -1,0 +1,185 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.0">
+  <diagram name="第 1 页" id="rl71kWSgz19x5vYwffuD">
+    <mxGraphModel dx="2127" dy="1065" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;strokeWidth=2;" edge="1" parent="1" source="JS7h0MbRJSVJ_PjhmdGo-1" target="JS7h0MbRJSVJ_PjhmdGo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-4" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="JS7h0MbRJSVJ_PjhmdGo-3">
+          <mxGeometry x="-0.0832" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-1" value="信源&lt;div style=&quot;font-size: 16px;&quot;&gt;M&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-104" y="51" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;strokeWidth=2;" edge="1" parent="1" source="JS7h0MbRJSVJ_PjhmdGo-2" target="JS7h0MbRJSVJ_PjhmdGo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-12" value="c" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="JS7h0MbRJSVJ_PjhmdGo-11">
+          <mxGeometry x="0.0843" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-2" value="加密器&lt;div style=&quot;font-size: 16px;&quot;&gt;c=E_k1(m)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="129" y="51" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;strokeWidth=2;" edge="1" parent="1" source="JS7h0MbRJSVJ_PjhmdGo-5" target="JS7h0MbRJSVJ_PjhmdGo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-10" value="密钥通道" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="JS7h0MbRJSVJ_PjhmdGo-9">
+          <mxGeometry x="0.0132" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;" edge="1" parent="1" source="JS7h0MbRJSVJ_PjhmdGo-5" target="JS7h0MbRJSVJ_PjhmdGo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-24" value="k1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="JS7h0MbRJSVJ_PjhmdGo-22">
+          <mxGeometry x="-0.0765" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-5" value="密钥源&lt;div style=&quot;font-size: 16px;&quot;&gt;k1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="129" y="167" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startSize=8;endSize=8;strokeWidth=2;" edge="1" parent="1" source="JS7h0MbRJSVJ_PjhmdGo-7" target="JS7h0MbRJSVJ_PjhmdGo-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-21" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="JS7h0MbRJSVJ_PjhmdGo-20">
+          <mxGeometry x="-0.0867" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-7" value="解密器&lt;div style=&quot;font-size: 16px;&quot;&gt;m=D_k2(c)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="424" y="51" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;" edge="1" parent="1" source="JS7h0MbRJSVJ_PjhmdGo-8" target="JS7h0MbRJSVJ_PjhmdGo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-25" value="k2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="JS7h0MbRJSVJ_PjhmdGo-23">
+          <mxGeometry x="-0.1276" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-8" value="密钥源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="424" y="167" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-19" value="接收者" style="whiteSpace=wrap;html=1;rounded=0;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="664" y="51" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-31" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;startSize=8;endSize=8;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="JS7h0MbRJSVJ_PjhmdGo-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-85.57144601004461" y="443.14285714285734" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-32" value="明文" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="JS7h0MbRJSVJ_PjhmdGo-31">
+          <mxGeometry x="-0.1727" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-38" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startSize=8;endSize=8;strokeWidth=2;" edge="1" parent="1" source="JS7h0MbRJSVJ_PjhmdGo-26" target="JS7h0MbRJSVJ_PjhmdGo-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-40" value="密文" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="JS7h0MbRJSVJ_PjhmdGo-38">
+          <mxGeometry x="-0.3357" y="1" relative="1" as="geometry">
+            <mxPoint x="14" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-26" value="加密器E1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="46" y="413" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;" edge="1" parent="1" source="JS7h0MbRJSVJ_PjhmdGo-33" target="JS7h0MbRJSVJ_PjhmdGo-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-35" value="k" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="JS7h0MbRJSVJ_PjhmdGo-34">
+          <mxGeometry x="-0.0584" y="-3" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;strokeWidth=2;" edge="1" parent="1" source="JS7h0MbRJSVJ_PjhmdGo-33" target="JS7h0MbRJSVJ_PjhmdGo-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-43" value="k" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="JS7h0MbRJSVJ_PjhmdGo-39">
+          <mxGeometry x="0.7123" y="-2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-33" value="密钥产生器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="46" y="544" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-41" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;startSize=8;endSize=8;strokeWidth=2;" edge="1" parent="1" source="JS7h0MbRJSVJ_PjhmdGo-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="443" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-42" value="解密后明文" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="JS7h0MbRJSVJ_PjhmdGo-41">
+          <mxGeometry x="-0.0523" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-37" value="解密器D1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="286" y="413" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-46" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startSize=8;endSize=8;strokeWidth=2;" edge="1" parent="1" source="JS7h0MbRJSVJ_PjhmdGo-44" target="JS7h0MbRJSVJ_PjhmdGo-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-44" value="明文 P" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-93" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-48" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startSize=8;endSize=8;strokeWidth=2;" edge="1" parent="1" source="JS7h0MbRJSVJ_PjhmdGo-45" target="JS7h0MbRJSVJ_PjhmdGo-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-50" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startSize=8;endSize=8;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="JS7h0MbRJSVJ_PjhmdGo-45" target="JS7h0MbRJSVJ_PjhmdGo-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-45" value="AES加密函数" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="147" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-56" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;strokeWidth=2;" edge="1" parent="1" source="JS7h0MbRJSVJ_PjhmdGo-47" target="JS7h0MbRJSVJ_PjhmdGo-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-57" value="网络传输" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="JS7h0MbRJSVJ_PjhmdGo-56">
+          <mxGeometry x="-0.3383" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-47" value="密文 C" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-49" value="密钥k" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="147" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-51" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startSize=8;endSize=8;" edge="1" parent="1" source="JS7h0MbRJSVJ_PjhmdGo-53" target="JS7h0MbRJSVJ_PjhmdGo-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-52" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startSize=8;endSize=8;endArrow=none;endFill=0;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="JS7h0MbRJSVJ_PjhmdGo-53" target="JS7h0MbRJSVJ_PjhmdGo-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-53" value="AES解密函数" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="664" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-54" value="明文 P" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="904" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-55" value="密钥k" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="664" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-59" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-25.5" y="934" width="465" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-60" value="发送方" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="1028" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-61" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="709" y="934" width="286" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7h0MbRJSVJ_PjhmdGo-62" value="接收方" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="822" y="1028" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
