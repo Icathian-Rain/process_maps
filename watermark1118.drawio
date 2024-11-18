@@ -1,9 +1,87 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.3">
   <diagram name="第 1 页" id="WsUeDXoYboS5X6KQYINQ">
-    <mxGraphModel>
+    <mxGraphModel dx="1048" dy="813" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="565" y="157" width="400" height="551" as="geometry" />
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630.75" y="552" width="271" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="271" y="157" width="241" height="554" as="geometry" />
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-2" value="现有语言大模型水印算法存在瓶颈" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="325" y="176" width="152" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-3" value="水印生成与检测算法漏报，误报率高" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="329.5" y="264" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-4" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;生成的水印文本质量不高&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="329.5" y="418" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-5" value="生成的水印文本鲁棒性不强" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="329.5" y="585" width="121" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-7" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;margin-left: 24pt; text-indent: 0cm; line-height: 150%; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px; line-height: 150%; font-family: 宋体;&quot;&gt;针对语言大模型的高效水印技术研究&lt;span style=&quot;font-size: 14px;&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="616" y="163" width="324" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630.75" y="231" width="271" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-9" value="&lt;span style=&quot;color: rgb(38, 38, 38); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Segoe UI&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: none; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: break-spaces; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;高效水印生成检测算法&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="693.75" y="229" width="145" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-10" value="水印的样式与内容" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="666" y="257" width="200.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-11" value="水印嵌入的位置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="666" y="287" width="200.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-12" value="水印检测的算法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="666" y="319" width="200.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-19" value="&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Segoe UI&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: none; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: break-spaces; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;水印文本鲁棒性增强算法&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="681" y="560" width="170.5" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-20" value="水印样本隐蔽性增强" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="666" y="598" width="200.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-21" value="水印样本抗攻击性增强" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="666" y="636" width="200.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630.75" y="385" width="271" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-14" value="&lt;span style=&quot;color: rgb(38, 38, 38); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Segoe UI&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: none; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: break-spaces; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;水印文本质量保证算法&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="693.75" y="394" width="145" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-15" value="水印文本质量评估" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="666" y="428" width="200.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-16" value="水印文本的微调" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="666" y="468" width="200.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="NgHbxKrIoI2VRAnCzw2G-3" target="NgHbxKrIoI2VRAnCzw2G-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="477" y="311" as="sourcePoint" />
+            <mxPoint x="527" y="261" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="449.5" y="447.5" as="sourcePoint" />
+            <mxPoint x="630.5" y="447.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="449.5" y="614.5" as="sourcePoint" />
+            <mxPoint x="630.5" y="614.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
