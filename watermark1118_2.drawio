@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.6">
   <diagram name="第 1 页" id="W_XF63hwiU5Ceyu-EntN">
-    <mxGraphModel>
+    <mxGraphModel dx="1567" dy="1922" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0fT0bzkiHxy6vYt0W5r3-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="212" y="496" width="490" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="0fT0bzkiHxy6vYt0W5r3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;container=1;" vertex="1" collapsed="1" parent="0fT0bzkiHxy6vYt0W5r3-1">
+          <mxGeometry x="110" y="150" width="50" height="40" as="geometry">
+            <mxRectangle x="152" y="56" width="120" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0fT0bzkiHxy6vYt0W5r3-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0fT0bzkiHxy6vYt0W5r3-1">
+          <mxGeometry y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fT0bzkiHxy6vYt0W5r3-4" value="" style="swimlane;startSize=0;flipH=0;flipV=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-209" y="-310" width="316" height="400" as="geometry">
+            <mxRectangle x="93" y="-344" width="50" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0fT0bzkiHxy6vYt0W5r3-6" value="基于红绿色表的水印生成与检测方法研究" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="0fT0bzkiHxy6vYt0W5r3-4">
+          <mxGeometry y="20" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0fT0bzkiHxy6vYt0W5r3-7" value="水印检测效果不高，误报漏报率高" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="0fT0bzkiHxy6vYt0W5r3-4">
+          <mxGeometry x="30" y="93" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fT0bzkiHxy6vYt0W5r3-8" value="当前水印文本质量不高" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="0fT0bzkiHxy6vYt0W5r3-4">
+          <mxGeometry x="30" y="196" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fT0bzkiHxy6vYt0W5r3-9" value="当前水印文本鲁棒性不强" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="0fT0bzkiHxy6vYt0W5r3-4">
+          <mxGeometry x="30" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fT0bzkiHxy6vYt0W5r3-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-236" y="-438" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fT0bzkiHxy6vYt0W5r3-15" value="" style="swimlane;startSize=0;flipH=0;flipV=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="-310" width="180" height="400" as="geometry">
+            <mxRectangle x="93" y="-344" width="50" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0fT0bzkiHxy6vYt0W5r3-16" value="现有语言大模型水印方法存在瓶颈" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="0fT0bzkiHxy6vYt0W5r3-15">
+          <mxGeometry y="20" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0fT0bzkiHxy6vYt0W5r3-17" value="水印检测效果不高，误报漏报率高" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="0fT0bzkiHxy6vYt0W5r3-15">
+          <mxGeometry x="30" y="93" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fT0bzkiHxy6vYt0W5r3-18" value="当前水印文本质量不高" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="0fT0bzkiHxy6vYt0W5r3-15">
+          <mxGeometry x="30" y="196" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fT0bzkiHxy6vYt0W5r3-19" value="当前水印文本鲁棒性不强" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="0fT0bzkiHxy6vYt0W5r3-15">
+          <mxGeometry x="30" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
