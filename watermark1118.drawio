@@ -58,13 +58,13 @@
         <mxCell id="NgHbxKrIoI2VRAnCzw2G-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Times New Roman;" parent="NgHbxKrIoI2VRAnCzw2G-59" vertex="1">
           <mxGeometry width="271" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="NgHbxKrIoI2VRAnCzw2G-14" value="&lt;span style=&quot;color: rgb(38, 38, 38); font-size: 16px; font-style: normal; font-variant-ligatures: none; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: break-spaces; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;实时动态偏移调节算法&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;labelBackgroundColor=none;fontFamily=Times New Roman;" parent="NgHbxKrIoI2VRAnCzw2G-59" vertex="1">
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-14" value="&lt;span style=&quot;color: rgb(38, 38, 38); font-size: 16px; font-style: normal; font-variant-ligatures: none; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: break-spaces; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;实时动态偏移调整算法&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;labelBackgroundColor=none;fontFamily=Times New Roman;" parent="NgHbxKrIoI2VRAnCzw2G-59" vertex="1">
           <mxGeometry x="50.25" y="9" width="167.25" height="34" as="geometry" />
         </mxCell>
         <mxCell id="NgHbxKrIoI2VRAnCzw2G-15" value="基于文本语义的熵计算" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontFamily=Times New Roman;" parent="NgHbxKrIoI2VRAnCzw2G-59" vertex="1">
           <mxGeometry x="35.25" y="43" width="200.5" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="NgHbxKrIoI2VRAnCzw2G-16" value="基于文本熵的偏移调节" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontFamily=Times New Roman;" parent="NgHbxKrIoI2VRAnCzw2G-59" vertex="1">
+        <mxCell id="NgHbxKrIoI2VRAnCzw2G-16" value="基于文本熵的偏移调整" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontFamily=Times New Roman;" parent="NgHbxKrIoI2VRAnCzw2G-59" vertex="1">
           <mxGeometry x="35.25" y="83" width="200.5" height="24" as="geometry" />
         </mxCell>
         <mxCell id="NgHbxKrIoI2VRAnCzw2G-60" value="" style="group;fontSize=16;" parent="1" vertex="1" connectable="0">
