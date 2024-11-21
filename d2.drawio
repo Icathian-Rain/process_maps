@@ -8,7 +8,7 @@
           <mxGeometry x="341" y="566" width="521" height="212" as="geometry" />
         </mxCell>
         <mxCell id="5k12RLIri9G1TouvQHry-2" value="水印注入算法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeWidth=2;" vertex="1" parent="5k12RLIri9G1TouvQHry-1">
-          <mxGeometry x="11" y="91" width="60" height="35" as="geometry" />
+          <mxGeometry x="11" y="91" width="74" height="35" as="geometry" />
         </mxCell>
         <mxCell id="5k12RLIri9G1TouvQHry-3" value="自动搜索算法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5k12RLIri9G1TouvQHry-1">
           <mxGeometry x="370.25" y="68" width="120" height="60" as="geometry" />
