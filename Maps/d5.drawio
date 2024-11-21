@@ -10,7 +10,7 @@
         <mxCell id="A2MTb0_62UMfzuvDzyTe-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="A2MTb0_62UMfzuvDzyTe-27" target="A2MTb0_62UMfzuvDzyTe-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A2MTb0_62UMfzuvDzyTe-27" value="水印偏差" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="A2MTb0_62UMfzuvDzyTe-27" value="原始文本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="22" y="1191.5" width="68.75" height="45" as="geometry" />
         </mxCell>
         <mxCell id="A2MTb0_62UMfzuvDzyTe-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="A2MTb0_62UMfzuvDzyTe-29" target="A2MTb0_62UMfzuvDzyTe-31">
@@ -71,6 +71,12 @@
         </mxCell>
         <mxCell id="A2MTb0_62UMfzuvDzyTe-52" value="哈希划分" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="69" y="1030" width="74" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A2MTb0_62UMfzuvDzyTe-53" value="" style="swimlane;startSize=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-66" y="953" width="674" height="304" as="geometry" />
+        </mxCell>
+        <mxCell id="A2MTb0_62UMfzuvDzyTe-54" value="基于语义的词表划分" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="A2MTb0_62UMfzuvDzyTe-53">
+          <mxGeometry x="142" y="14" width="119" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
