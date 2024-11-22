@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.6">
   <diagram name="第 1 页" id="WsUeDXoYboS5X6KQYINQ">
-    <mxGraphModel dx="825" dy="956" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1001" dy="1161" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="585.25" y="156" width="581.75" height="552" as="geometry" />
         </mxCell>
         <mxCell id="NgHbxKrIoI2VRAnCzw2G-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;fontSize=14;strokeWidth=2;fontFamily=Simsum;" parent="1" vertex="1">
-          <mxGeometry x="322" y="159" width="219" height="551" as="geometry" />
+          <mxGeometry x="322" y="154" width="219" height="552" as="geometry" />
         </mxCell>
         <mxCell id="NgHbxKrIoI2VRAnCzw2G-2" value="现有语言大模型水印算法存在瓶颈" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=2;fontFamily=Simsum;" parent="1" vertex="1">
           <mxGeometry x="337.75" y="184" width="188" height="30" as="geometry" />
