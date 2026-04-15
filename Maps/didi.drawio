@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.3.4" pages="2">
+  <diagram name="第 1 页" id="NKZltDGhGD-bYCnMvuyY">
+    <mxGraphModel dx="2158" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PWgIWKt8R6isCkVE8-jO-14" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Microsoft YaHei;fontSize=18;arcSize=20;size=25;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="100" width="115.5" x="-719" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PWgIWKt8R6isCkVE8-jO-15" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Microsoft YaHei;fontSize=18;arcSize=20;size=25;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="100" width="115.5" x="-810" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="PWgIWKt8R6isCkVE8-jO-16" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Microsoft YaHei;fontSize=18;arcSize=20;size=25;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" value="V(s)" vertex="1">
+          <mxGeometry height="100" width="115.5" x="-719" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="PWgIWKt8R6isCkVE8-jO-17" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Microsoft YaHei;fontSize=18;arcSize=20;size=25;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="100" width="115.5" x="-630" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="PWgIWKt8R6isCkVE8-jO-18" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Microsoft YaHei;fontSize=18;arcSize=20;size=25;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="100" width="115.5" x="-809" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="PWgIWKt8R6isCkVE8-jO-19" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Microsoft YaHei;fontSize=18;arcSize=20;size=25;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="100" width="115.5" x="-718" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PWgIWKt8R6isCkVE8-jO-20" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Microsoft YaHei;fontSize=18;arcSize=20;size=25;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="100" width="115.5" x="-630" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="1oqcFYdWuXdGbvNim804-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" value="wx4ev" vertex="1">
+          <mxGeometry height="160" width="310" x="-280" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1oqcFYdWuXdGbvNim804-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" value="wx4ey" vertex="1">
+          <mxGeometry height="160" width="310" x="30" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1oqcFYdWuXdGbvNim804-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" value="wx4et" vertex="1">
+          <mxGeometry height="160" width="310" x="-280" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="1oqcFYdWuXdGbvNim804-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" value="wx4ew" vertex="1">
+          <mxGeometry height="160" width="310" x="30" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="1oqcFYdWuXdGbvNim804-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" value="wx4evd" vertex="1">
+          <mxGeometry height="50" width="120" x="-90" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1oqcFYdWuXdGbvNim804-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Microsoft YaHei;fontSize=18;" value="目的地" vertex="1">
+          <mxGeometry height="30" width="60" x="-60" y="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fu27KXHJ9mEF_kG4sy59" name="第 2 页">
+    <mxGraphModel dx="1031" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
